@@ -1,0 +1,31 @@
+Branch_ID,Branch_Name,City,State,Region,Branch_Type,Open_Date,Manager_ID
+B001,Bengaluru Branch 1,Bengaluru,Karnataka,South,Semi-Urban,2011-03-23 00:00:00,MGR001
+B002,Mysuru Branch 1,Mysuru,Karnataka,South,Metro,2020-08-05 00:00:00,MGR002
+B003,Mumbai Branch 1,Mumbai,Maharashtra,West,Metro,2018-12-17 00:00:00,MGR003
+B004,Pune Branch 1,Pune,Maharashtra,West,Semi-Urban,2016-01-04 00:00:00,MGR004
+B005,Delhi Branch 1,Delhi,Delhi,North,Urban,2015-12-06 00:00:00,MGR005
+B006,Gurugram Branch 1,Gurugram,Haryana,North,Metro,2021-10-02 00:00:00,MGR006
+B007,Hyderabad Branch 1,Hyderabad,Telangana,South,Metro,2011-03-06 00:00:00,MGR007
+B008,Chennai Branch 1,Chennai,Tamil Nadu,South,Metro,2019-07-19 00:00:00,MGR008
+B009,Kolkata Branch 1,Kolkata,West Bengal,East,Semi-Urban,2012-10-04 00:00:00,MGR009
+B010,Ahmedabad Branch 1,Ahmedabad,Gujarat,West,Metro,2011-04-16 00:00:00,MGR010
+B011,Jaipur Branch 1,Jaipur,Rajasthan,North,Semi-Urban,2017-03-17 00:00:00,MGR011
+B012,Bhubaneswar Branch 1,Bhubaneswar,Odisha,East,Semi-Urban,2023-05-11 00:00:00,MGR012
+B013,Bengaluru Branch 2,Bengaluru,Karnataka,South,Semi-Urban,2020-01-27 00:00:00,MGR013
+B014,Mysuru Branch 2,Mysuru,Karnataka,South,Metro,2020-06-02 00:00:00,MGR014
+B015,Mumbai Branch 2,Mumbai,Maharashtra,West,Semi-Urban,2019-10-28 00:00:00,MGR015
+B016,Pune Branch 2,Pune,Maharashtra,West,Urban,2020-10-05 00:00:00,MGR016
+B017,Delhi Branch 2,Delhi,Delhi,North,Metro,2017-01-10 00:00:00,MGR017
+B018,Gurugram Branch 2,Gurugram,Haryana,North,Metro,2011-10-03 00:00:00,MGR018
+B019,Hyderabad Branch 2,Hyderabad,Telangana,South,Metro,2021-06-30 00:00:00,MGR019
+B020,Chennai Branch 2,Chennai,Tamil Nadu,South,Metro,2016-03-01 00:00:00,MGR020
+B021,Kolkata Branch 2,Kolkata,West Bengal,East,Metro,2016-11-06 00:00:00,MGR021
+B022,Ahmedabad Branch 2,Ahmedabad,Gujarat,West,Semi-Urban,2015-01-28 00:00:00,MGR022
+B023,Jaipur Branch 2,Jaipur,Rajasthan,North,Semi-Urban,2012-07-01 00:00:00,MGR023
+B024,Bhubaneswar Branch 2,Bhubaneswar,Odisha,East,Metro,2022-09-08 00:00:00,MGR024
+B025,Bengaluru Branch 3,Bengaluru,Karnataka,South,Semi-Urban,2020-09-12 00:00:00,MGR025
+B026,Mysuru Branch 3,Mysuru,Karnataka,South,Metro,2018-10-25 00:00:00,MGR026
+B027,Mumbai Branch 3,Mumbai,Maharashtra,West,Semi-Urban,2015-07-06 00:00:00,MGR027
+B028,Pune Branch 3,Pune,Maharashtra,West,Semi-Urban,2021-04-06 00:00:00,MGR028
+B029,Delhi Branch 3,Delhi,Delhi,North,Semi-Urban,2017-06-20 00:00:00,MGR029
+B030,Gurugram Branch 3,Gurugram,Haryana,North,Semi-Urban,2016-01-27 00:00:00,MGR030
