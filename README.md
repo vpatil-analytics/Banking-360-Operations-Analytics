@@ -192,3 +192,15 @@ SQL | MySQL | Power BI | DAX | Power Query | Data Modeling | Data Cleaning | Dat
 🚀 Project Outcome
 
 This project demonstrates an end-to-end Business Intelligence workflow from raw banking data → SQL analysis → data modeling → Power BI dashboard → business insights.
+
+## 📊 Dashboard Preview
+
+The Banking 360 Power BI dashboard is available in the repository.
+
+📄 [View Banking 360 Dashboard PDF](./Power%20BI/Banking_360_Dashboard.pdf)
+
+📊 [Open Banking 360 Power BI File](./Power%20BI/Banking%20360.pbix)
+
+
+
+.
